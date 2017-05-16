@@ -1,0 +1,16 @@
+//
+//  DataCenterExample.pch
+//  DataCenterExample
+//
+//  Created by wans on 2017/5/10.
+//  Copyright © 2017年 wans. All rights reserved.
+//
+
+#ifndef DataCenterExample_pch
+#define DataCenterExample_pch
+
+#import "BFDataCenterConstant.h"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* DataCenterExample_pch */
